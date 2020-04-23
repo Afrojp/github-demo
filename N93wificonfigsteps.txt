@@ -1,0 +1,57 @@
+http://www.3g.co.uk/3GForum/showthread.php?t=44030
+
+Simple Instructions For Setting Up A Wireless Connection Between Your N80 And Your Router.
+
+
+The following should get you connected and at the very least will get you well on you way. Feel free to ask if you encounter any specific difficulties.
+These instructions are largely based on a detailed post made by Fluxomatic. Massive thanks therefore are due to him! I have really only added Part Three to the original post.
+
+Part One
+
+1) Ensure your N80 is charged and switched on. Check your router is also switched on.
+2) Go to the ‘Main Menu’ of your N80.
+3) Then go to ‘Tools’.
+4) Select ‘Settings’.
+5) Then go to ‘Connection’, (3rd one down on the menu).
+6) Then ‘Access Points’.
+7) Select ‘Options’ (using the soft key, bottom left) and choose ‘New Access Point’.
+8) Select, ‘Use Default Settings’.
+
+Part Two
+The next set of steps will configure your settings.
+
+1) In ‘Connection Name’, write a nice name for your phone, anything will do.
+2) Scroll down to ‘Data Bearer’ and select ‘Wireless LAN’. Click the centre of the joy pad to confirm.
+3) Scroll down to the third connection setting on the list, ‘WLAN netw'. name’. Here you need to select ‘Search for netw.’ At this point your N80 should begin to search for WiFI access points. All being well, your N80 will find your computer’s router. When the name of your router connection is displayed…..
+4) ….. Select your router.
+5) Now move down to ‘Network Status’. Select ‘Public’.
+6) Scroll to ‘Wlan netw. mode’ and select, ‘Infrastructure’.
+7) Scroll to ‘Wlan security mode’and select WPA/WPA2. If you are using something like a BT Home Hub then WPA/WPA2 security is not used. You will need to select the WEP option, which is configured in the next step.
+8) Click on to the ‘WLAN Security Sett’ and moved down to ‘WEP’ key settings. Click on this and change the format to ‘hexadecimal’ and then entered the WEP key. This is to be found on a label on the back of your router.
+9) The final prompt is for you to select your ‘Homepage’. Here you can put your favourite search page.
+
+Part Three
+Now all you need to do is you need to do is to define the access point under the browser 'settings'. To do this:
+
+1) Select Main Menu.
+2) Select ‘My Own’.
+3) Click on ‘Options’.
+4) Scroll to ‘Settings’.
+5) Then select ‘Access Points’.
+6) Click on ‘User Defined’ and up should pop and option to connect. This option will be easy to spot because it will have the name you gave it in Part Two, Step 1.
+
+Part Four
+Let’s see if it has worked!
+
+1) Go to ‘Main Menu’.
+2) Then go to ‘My Own’.
+3) Then click on ‘Web’.
+4) Then type or select web address & the N80 should search access points & one of them should be your WiFi Router.
+
+Fluxomatic noted that if your connection is unsecured it will access the Internet from your router.
+However, if you have a secure connection it may ask for a Pre-shared key which is the password that you set up on your router for Wi-Fi connections.
+I don’t get this prompt, having entered my WEP key earlier.
+Note, just for information, that WEP secured connections are not as secure as WPA/WPA2 connections.
+
+
+I know it says the n80 but i have a n93 and used this guide and now have it working like a dream!
